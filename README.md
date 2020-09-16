@@ -1,5 +1,3 @@
-# dxunt_h5
-
 ## Project setup
 ```
 npm install
